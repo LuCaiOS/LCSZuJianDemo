@@ -1,0 +1,22 @@
+PODS:
+  - LCSLogin (0.1.0):
+    - LCSNetworking
+  - LCSNetworking (0.1.0)
+
+DEPENDENCIES:
+  - LCSLogin (from `MyLib/LCSLogin`)
+  - LCSNetworking (from `MyLib/LCSNetworking`)
+
+EXTERNAL SOURCES:
+  LCSLogin:
+    :path: MyLib/LCSLogin
+  LCSNetworking:
+    :path: MyLib/LCSNetworking
+
+SPEC CHECKSUMS:
+  LCSLogin: 052172753c4b6fcc30dccfbf7085602a2d1577fe
+  LCSNetworking: 7a0a07d4eae074d6a3114e5239be2298fd447563
+
+PODFILE CHECKSUM: bd134dced54a183b7bba3585f89536dfd559d0fb
+
+COCOAPODS: 1.9.1

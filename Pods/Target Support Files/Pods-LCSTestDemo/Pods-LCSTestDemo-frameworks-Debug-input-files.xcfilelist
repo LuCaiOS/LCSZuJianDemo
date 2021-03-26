@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-LCSTestDemo/Pods-LCSTestDemo-frameworks.sh
+${BUILT_PRODUCTS_DIR}/LCSLogin/LCSLogin.framework
+${BUILT_PRODUCTS_DIR}/LCSNetworking/LCSNetworking.framework

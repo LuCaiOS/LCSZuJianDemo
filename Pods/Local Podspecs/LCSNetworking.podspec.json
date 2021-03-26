@@ -1,0 +1,22 @@
+{
+  "name": "LCSNetworking",
+  "version": "0.1.0",
+  "summary": "A short description of LCSNetworking.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/LuCaiOS/LCSNetworking",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "LuCaiOS": "luchangsong@xdf.cn"
+  },
+  "source": {
+    "git": "https://github.com/LuCaiOS/LCSNetworking.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "LCSNetworking/Classes/**/*"
+}

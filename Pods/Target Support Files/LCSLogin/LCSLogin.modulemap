@@ -1,0 +1,6 @@
+framework module LCSLogin {
+  umbrella header "LCSLogin-umbrella.h"
+
+  export *
+  module * { export * }
+}
